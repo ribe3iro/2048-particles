@@ -1,4 +1,4 @@
-# particles-fusion
+# 2048-particles
 # Visualização de fusão de partículas, baseado no jogo 2048
 Partículas de valor 1 vão sendo geradas a cada 10 frames de animação.  
 Quando 2 partículas de mesmo valor se chocam, elas se fundem e geram uma nova partícula, com o dobro do valor da original.  
